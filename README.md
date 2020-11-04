@@ -1,4 +1,6 @@
 # Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsychin&count_private=true&show_icons=true&theme=dark)
+
 ![CSharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
